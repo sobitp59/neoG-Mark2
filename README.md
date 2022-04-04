@@ -10,6 +10,6 @@
     - objects
     - loops
     ```
-# **[CLICK THIS TO PLAY THE GAME](https://replit.com/@SobitPrasad/Demon-Slayer-Quiz#index.js?embed=1&output=1)**    
+# **[CLICK THIS TO PLAY THE GAME](https://replit.com/@SobitPrasad/Demon-Slayer-Quiz?embed=1&output=1&utm_source=pocket_mylist)**    
 
 ### **Love💜Sobit**
